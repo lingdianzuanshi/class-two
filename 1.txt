@@ -1,1 +1,3 @@
 ¡°hello world¡±means ´ó¼ÒºÃ
+version 1.0
+this is version1.0
