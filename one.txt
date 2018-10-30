@@ -2,3 +2,4 @@
 version 1.0
 this is version1.0
 合并分支
+合并分支 2 这是master分支
